@@ -82,11 +82,12 @@ End-to-end NBA odds analytics — live odds ingest → Snowflake → dbt staging
 <tr>
 <td width="50%" valign="top">
 
-### [ClaudeViso](https://github.com/ryan-67/ClaudeViso)
+### [folk-projects](https://github.com/ryan-67/folk-projects)
+**Live:** [ryan-67.github.io/folk-projects](https://ryan-67.github.io/folk-projects/)
 
-Desktop AI overlay — Claude vision assistant with hotkeys and screen context.
+Prototype Projects workspace for Folk — persistent per-initiative todos, notes, chat timeline, and command-K search (local-first React UI).
 
-`Electron` `Anthropic API` `TypeScript`
+`React` `TypeScript` `Vite`
 
 </td>
 <td width="50%" valign="top">
@@ -177,11 +178,6 @@ Autonomous job-search pipelines — scraping, Claude scoring, and GitHub Actions
 ## GitHub pulse
 
 <div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=ryan-67&show_icons=true&theme=transparent&hide_border=true&title_color=C5A059&icon_color=C5A059&text_color=c9d1d9&ring_color=C5A059" alt="Ryan Kim GitHub stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryan-67&layout=compact&theme=transparent&hide_border=true&title_color=C5A059&text_color=c9d1d9" alt="Top languages" />
-
-<br />
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=ryan-67&theme=transparent&hide_border=true&ring=C5A059&fire=C5A059&currStreakLabel=C5A059)](https://git.io/streak-stats)
 
