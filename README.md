@@ -34,6 +34,10 @@ Previously at **Pepperdata**, I owned daily ETL/ELT on EMR/EKS/S3 for an enterpr
 
 ### [nucky.gg](https://nucky.gg) · [`ryan-67/lol-dashboard`](https://github.com/ryan-67/lol-dashboard)
 
+<a href="https://nucky.gg">
+  <img src="./assets/nucky-hero.png" alt="nucky.gg — the LoL esports signal" width="900" />
+</a>
+
 **Tier-1 League of Legends esports SaaS** — current-form dashboard, schedule foresight, series recaps, power ratings, and **nuckyAI**.
 
 [![Live](https://img.shields.io/badge/Live-nucky.gg-C5A059?style=for-the-badge)](https://nucky.gg)
@@ -71,9 +75,9 @@ Production LoL esports analytics platform — dashboard, foresight models, and g
 </td>
 <td width="50%" valign="top">
 
-### [Sports Odds Pipeline](https://github.com/ryan-67/sports-odds-pipeline)
+### [NBA Betting Odds Pipeline](https://github.com/ryan-67/sports-odds-pipeline)
 
-End-to-end NBA odds analytics — live odds ingest → Snowflake → dbt staging/marts → Tableau, with arbitrage detection logic.
+End-to-end NBA betting odds analytics — live odds ingest → Snowflake → dbt staging/marts → Tableau, with arbitrage detection.
 
 `Snowflake` `dbt` `Python` `Tableau`
 
@@ -92,11 +96,11 @@ Prototype Projects workspace for Folk — persistent per-initiative todos, notes
 </td>
 <td width="50%" valign="top">
 
-### [Job Search Agents](https://github.com/ryan-67/job-search-agent)
+### [laptops-database](https://github.com/ryan-67/laptops-database)
 
-Autonomous job-search pipelines — scraping, Claude scoring, and GitHub Actions cron orchestration.
+SQL e-commerce schema for a laptop catalog — stored procedures, views, and data-integrity constraints.
 
-`Python` `Claude API` `GitHub Actions`
+`SQL` `Stored procedures` `Views`
 
 </td>
 </tr>
@@ -105,8 +109,8 @@ Autonomous job-search pipelines — scraping, Claude scoring, and GitHub Actions
 <details>
 <summary><strong>More repos</strong></summary>
 
+- [`job-search-agent`](https://github.com/ryan-67/job-search-agent) — Autonomous job-search pipeline (scraping, Claude scoring, Actions cron)
 - [`nba_fantasy_project`](https://github.com/ryan-67/nba_fantasy_project) — NBA fantasy analytics (Python pipeline, SQL, Power BI)
-- [`laptops-database`](https://github.com/ryan-67/laptops-database) — SQL e-commerce schema (procs, views, integrity)
 - [`career-ops-agent`](https://github.com/ryan-67/career-ops-agent) — Apify + Claude scoring job pipeline
 
 </details>
